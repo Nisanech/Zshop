@@ -1,0 +1,15 @@
+/** Body **/
+body {
+    background-image: url(../images/bg3.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	color: #fff;
+	position: relative;
+}
+
+body .wrap-body{
+    margin: 0 auto;
+    max-width: 52%;
+}
