@@ -39,3 +39,12 @@ body .wrap-body{
 .col-1-2 {
     width: 50%;
 }
+
+/** Footer **/
+.col-1-3 {
+    width: 33.3%;
+}
+
+.wrap-col > .row {
+    flex-direction: column;
+}
