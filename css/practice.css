@@ -15,8 +15,27 @@ body .wrap-body{
 }
 
 /** Navegación **/
-.row {
+.navegacion {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+/** Productos **/
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.col-2-5 {
+    width: 39%;
+}
+
+.col-3-5 {
+    width: 61%;
+}
+
+.col-1-2 {
+    width: 50%;
 }
