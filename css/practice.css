@@ -13,3 +13,10 @@ body .wrap-body{
     margin: 0 auto;
     max-width: 52%;
 }
+
+/** Navegación **/
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
